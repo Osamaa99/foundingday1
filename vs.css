@@ -1,0 +1,134 @@
+body{
+text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(255, 255, 255);
+}
+p{
+color: #111111;
+}
+h1{
+    text-align:center;
+    padding-bottom: 20px;
+    padding-top: 20px;
+}
+
+ul{
+    text-align: right;
+}
+a {
+    display: inline-block;
+    border: solid 3px ;
+    border-color: burlywood;
+    padding: 10px;
+    background-color: rgb(255, 255, 255);
+    overflow: hidden;
+    font-size: large;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-weight: bold;
+    display: inline-block;
+    margin: 10px;
+}
+.sa{
+
+    text-align: center;
+    background-color: brown;
+}
+.sa ul{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+.sa li{
+    display: inline-block;
+    text-align: center;
+}
+.sa li a{
+    display: inline-block;
+    height: auto;
+    width: 150px;
+    color: black;
+    background-color: burlywood;
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.sa li a:hover{
+    background-color: brown;
+}
+.photos {
+    overflow: auto;
+    padding-top: 20px;
+    padding-bottom: 40px;
+    text-align: center;
+    background-color: burlywood;
+}
+.photos img{
+    border-style: solid;
+    border-width: 2px;
+    border-color: burlywood;
+    border-radius: 6px;
+    margin: 2px;
+    object-position: top;
+    object-fit:cover
+    
+}
+.fi{
+
+    text-align: center;
+}
+.fi ul{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-decoration: none;
+}
+.fi li{
+    display: inline-block;
+    text-align: center;
+}
+.fi li a{
+    display: inline-block;
+    height: auto;
+    width: 150px;
+    color: rgb(0, 0, 0);
+    background-color: burlywood;
+    padding: 10px;
+    margin: 4px;
+    text-align: center;
+    font-size: 18px;
+    font-weight: bold;
+    text-decoration: none;
+    border-radius: 4px;
+}
+.fi li a:hover{
+    background-color: brown;}
+    .main h1{
+        overflow: auto;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 200px;
+        padding: 10px;
+        color: black;
+        font-weight: bold;
+        text-align: center;
+        border-radius: 40px;
+    }
+    .mm h2{
+        overflow: auto;
+        margin-top: 40px;
+        margin-left: auto;
+        margin-right: auto;
+        width: 200px;
+        padding: 10px;
+        color: black;
+        font-weight: bold;
+        text-align: center;
+        border-radius: 40px;
+        background-color: burlywood;
+    }
